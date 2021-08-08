@@ -1,0 +1,1 @@
+.wiki{height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center}.wiki .swap-title{color:#fff;font-size:16px;text-align:center}@media (max-width:992px){.wrapper{padding:0 15px}.wiki{width:100%}}@media (min-width:992px){.wrapper{padding:0 10px}.wiki,.wrapper{width:900px;margin:0 auto}}
